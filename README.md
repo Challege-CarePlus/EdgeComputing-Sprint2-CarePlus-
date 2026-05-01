@@ -25,8 +25,7 @@ Dispositivo vestível (**Health Tracker**) baseado em **ESP32** que captura mét
 
 ## 🏗️ Arquitetura da Solução
 
-![Arquitetura Care Plus](./docs/arquitetura.png)
-
+<img src="https://raw.githubusercontent.com/Nicolas-reach/EdgeComputing-Sprint2-CarePlus-/main/docs/arquitetura.png" width="800"/>
 ---
 
 ## 🔗 Links
